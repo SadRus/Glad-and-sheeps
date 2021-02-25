@@ -1,2 +1,2 @@
-# Glad-sheeps
+# Glad and sheeps
 game1
